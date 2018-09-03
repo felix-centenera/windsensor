@@ -20,3 +20,7 @@ I'm using lot's of Javascript libraries that have it's own licenses (most MIT).
 * http://d3js.org/
 * http://code.shutterstock.com/rickshaw/
 * http://jquery.com/
+
+
+# Raspeberry blog
+http://www.bujarra.com/usando-un-anemometro-con-raspberry-pi/
